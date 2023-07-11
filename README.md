@@ -16,3 +16,4 @@ Our project idea was to create a hospital/doctor's office management program whe
 doctors and patients. Patients could view their own record and request appointments. Doctors could view their appointments, create appointments and view patient reports. Administrators could create new profiles and appointments.
 We decided to create the program entirely using Java (including the UI).
 Here is a link to the working demo: https://replit.com/@andre0912/LHosptials-Rule
+(to login as a doctor in the demo, use 'andre' as the id and 'password' as the password. To login as a receptionist, use the id 'wesley' and the password 'password')
